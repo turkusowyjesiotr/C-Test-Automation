@@ -1,0 +1,32 @@
+﻿2023-01-20 15:13:32 DEBUG - Got browser start arguments from settings file: incognito
+2023-01-20 15:13:32 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-01-20 15:13:33 INFO - Browser 'Chrome' ready...
+2023-01-20 15:13:33 INFO - Maximizing browser window
+2023-01-20 15:13:33 INFO - Navigate to URL - 'http://login:password@localhost:8080/web'
+2023-01-20 15:13:34 INFO - Waiting for page to load
+2023-01-20 15:13:34 INFO - Refreshing the page
+2023-01-20 15:13:34 INFO - Label 'Footer -> Version number' :: Getting text from element
+2023-01-20 15:13:34 INFO - Label 'Footer -> Version number' :: Element's text: [Version: 2]
+2023-01-20 15:13:34 INFO - Button 'Projects list -> Nexage button' :: Waiting for element to be clickable
+2023-01-20 15:13:34 INFO - Button 'Projects list -> Nexage button' :: Clicking
+2023-01-20 15:13:37 INFO - Label 'Nexage project page with tests list' :: Waiting for element to be displayed
+2023-01-20 15:13:41 INFO - Return to previous page
+2023-01-20 15:13:41 INFO - Waiting for page to load
+2023-01-20 15:13:41 INFO - Label 'Projects list -> Heading with Add button' :: Waiting for element to be clickable
+2023-01-20 15:13:41 INFO - Label 'Projects list -> Heading with Add button' :: Clicking
+2023-01-20 15:13:41 INFO - Switching to new tab
+2023-01-20 15:13:41 INFO - Getting tab handles
+2023-01-20 15:13:41 INFO - Label 'Add project form' :: Waiting for element to be displayed
+2023-01-20 15:13:41 INFO - Text Field 'Add project form -> enter project name text box' :: Clearing
+2023-01-20 15:13:41 INFO - Text Field 'Add project form -> enter project name text box' :: Typing 'tcrgqzaiknqmmqenlb'
+2023-01-20 15:13:41 INFO - Button 'Add project form -> Save project button' :: Waiting for element to be clickable
+2023-01-20 15:13:41 INFO - Button 'Add project form -> Save project button' :: Clicking
+2023-01-20 15:13:41 INFO - Label 'Add project form -> Success alert' :: Getting text from element
+2023-01-20 15:13:41 INFO - Label 'Add project form -> Success alert' :: Element's text: [Project tcrgqzaiknqmmqenlb saved]
+2023-01-20 15:13:41 INFO - Closing tab
+2023-01-20 15:13:41 INFO - Switching to tab by index '0'
+2023-01-20 15:13:41 INFO - Getting tab handles
+2023-01-20 15:13:41 INFO - Refreshing the page
+2023-01-20 15:13:41 INFO - Button 'Project tcrgqzaiknqmmqenlb button' :: Waiting for element to be displayed
+2023-01-20 15:13:41 INFO - Button 'Project tcrgqzaiknqmmqenlb button' :: Waiting for element to be clickable
+2023-01-20 15:13:41 INFO - Button 'Project tcrgqzaiknqmmqenlb button' :: Clicking
