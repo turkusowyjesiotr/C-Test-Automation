@@ -3,6 +3,7 @@
 This project aims at automating API request on https://jsonplaceholder.typicode.com/ site.
 
 ### Patterns and technologies used:
+* NUnit as test framework
 * RestSharp for requests
 * Singleton pattern for API Client class
 * Model Classes for data
