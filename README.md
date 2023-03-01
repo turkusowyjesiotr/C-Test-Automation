@@ -5,6 +5,7 @@ This project aims to mix UI and API automation, prerequisite for this project wa
 Goal of this tests was to subscribe to newsletter using UI, then follow the link sent to test e-mail account using API.
 
 ### Patterns and technologies used:
+* NUnit as test framework
 * RestSharp for requests
 * Page Object Model for pages and forms
 * Model Classes for data
