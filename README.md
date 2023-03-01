@@ -5,6 +5,7 @@ This project aims to automate UI tests on the https://userinyerface.com/ website
 Goal of this project was to conduct a couple of simple UI tests on badly designed websited and find a work-around for file upload on website with no proper file upload tag/form.
 
 ### Patterns and technologies used:
+* NUnit as test framework
 * Page Object Model for pages and forms
 * Aquality Framework for Selenium
 
