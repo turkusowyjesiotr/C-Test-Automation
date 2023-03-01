@@ -1,6 +1,6 @@
 ## Internship Examination Task
 
-This project was verified by my mentor at a1qa company's internal exam for interns. It simulated working at real life project, including contacting project lead for questions regarding incomplete information about test case and writing daily reports.
+This project was verified by my mentor at **a1qa** company's internal exam for interns. It simulated working at real life project, including contacting project lead for questions regarding incomplete information about test case and writing daily reports.
 
 To do this project I deployed **Docker** locally using **WSL2** to run company's internal application there. Then, my task was to use API requests to generate token, pass this token as cookie to the application. Then do some UI tests as described in the test case below.
 
