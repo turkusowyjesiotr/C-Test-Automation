@@ -4,6 +4,10 @@ Hello! Welcome to my portfolio of C# test automation. In this repo there are 5 b
 
 ## Branches
 
-[euronews](github/CSharp-Test-Automation/tree/Euronews)
-1. Euronews
+[1. Euronews: API + UI tests](github/CSharp-Test-Automation/tree/Euronews)
+[2. Userinyerface: UI tests](github/CSharp-Test-Automation/tree/Userinyerface)
+[3. JSON-Placeholder: API tests](github/CSharp-Test-Automation/tree/JSON-Placeholder)
+[4. MySQL-Database: database tests](github/CSharp-Test-Automation/tree/MySQL-Database)
+[5. Internship-Examination-Task: API + UI tests](github/CSharp-Test-Automation/tree/Internship-Examination-Task)
+
 
