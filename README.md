@@ -10,7 +10,7 @@ This project aims at automating API request on https://jsonplaceholder.typicode.
 ### Test Case 1
 | Steps  | Expected Results |
 | ------------- | ------------- |
-| 1. Send GET Request to get all posts (/posts)  | Status code is 200.
+| 1. Send GET Request to get all posts (/posts)  | Status code is 200<br>The list in response body is JSON<br>Posts are sorted ascending (by id) |
 
 The list in response body is json.
 
