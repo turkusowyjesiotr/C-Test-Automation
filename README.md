@@ -18,7 +18,6 @@ Goal of this tests was to work with this database using C#.
 
 ### Test Case 2
 | Preconditions |
-| ------------- | ------------- |
 | 1. Select tests from the database where ID contains two random repeating digits, for example "11" or "77". But no more than 10 tests. |
 | 2. Copy these tests with an indication of the current project and the author. |
 | Steps  | Expected Results |
