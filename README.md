@@ -13,7 +13,9 @@ Goal of this tests was to work with this database using C#.
 | Steps  | Expected Results |
 | ------------- | ------------- |
 | 1. Run any tests  | The tests were executed  |
-| Postconditions |
+
+| Postconditions | |
+| ------------- | ------------- |
 | Add a result of each completed test in the database as a new record in the corresponding table |  Information is added  |
 
 ### Test Case 2
