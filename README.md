@@ -1,6 +1,6 @@
 ## JSON Placeholder Project
 
-This project aims at automating API request on https://jsonplaceholder.typicode.com/ site.
+This project aims at automating API requests on https://jsonplaceholder.typicode.com/ site.
 
 ### Patterns and technologies used:
 * NUnit as test framework
