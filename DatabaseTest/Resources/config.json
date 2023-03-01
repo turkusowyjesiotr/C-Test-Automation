@@ -1,0 +1,7 @@
+{
+  "server": "localhost",
+  "user": "root",
+  "database": "union_reporting",
+  "port": "3306",
+  "password": "mysqlroot"
+}
