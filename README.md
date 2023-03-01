@@ -30,7 +30,8 @@ This project aims at automating API request on https://jsonplaceholder.typicode.
 ### Test Case 5
 | Steps  | Expected Results |
 | ------------- | ------------- |
-| 1. Send GET request to get users (/users)  | Status code is 200<br>The list in response body is JSON<br>User (id=5) data equals to:<br>```json
+| 1. Send GET request to get users (/users)  | Status code is 200<br>The list in response body is JSON<br>User (id=5) data equals to JSON below: |
+```json
 {
   "id": 5,
   "name": "Chelsey Dietrich",
@@ -55,9 +56,7 @@ This project aims at automating API request on https://jsonplaceholder.typicode.
   }
 }
 ```
-
-
 ### Test Case 6
 | Steps  | Expected Results |
 | ------------- | ------------- |
-| 1. Send GET Request to get all posts (/posts)  | Status code is 200<br>The list in response body is JSON<br>Posts are sorted ascending (by id) |
+| 1. Send GET request to get user with id=5 (/users/5)  | Status code is 200<br>User data matches with user data in the previous step |
