@@ -1,6 +1,6 @@
 ## MySQL Database Project
 
-This project is a simple CRUD application that aims to simulate creating, getting and updating test results in company's database. I deployed MySQL server locally and restored database from dump file, it was already populated with mock test projects, authors and tests.
+This project is a simple CRUD application that aims to simulate creating, getting and updating test results in company's database. I deployed MySQL server locally and restored database from dump file, it was already populated with mock test projects, authors and tests. I cannot provide this database dump here as it was part of my internship.
 
 Goal of this tests was to work with this database using C#.
 
