@@ -26,7 +26,7 @@ Goal of this tests was to work with this database using C#.
 | ------------- | ------------- |
 | 1. Simulate the launch of each test. Update information about them in the database.  | Tests are completed, information is updated.  |
 
-| Postconditions |
+| Postconditions | |
 | ------------- | ------------- |
 | 1. Delete the records created in Preconditions from the database. |  The records have been deleted. |
 
