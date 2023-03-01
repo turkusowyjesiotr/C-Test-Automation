@@ -4,10 +4,10 @@ Hello! Welcome to my portfolio of C# test automation. In this repo there are 5 b
 
 ## Branches
 
-[1. Euronews: API + UI tests](turkusowyjesiotr/CSharp-Test-Automation/tree/Euronews)<br>
-[2. Userinyerface: UI tests](turkusowyjesiotr/CSharp-Test-Automation/tree/Userinyerface)<br>
-[3. JSON-Placeholder: API tests](turkusowyjesiotr/CSharp-Test-Automation/tree/JSON-Placeholder)<br>
-[4. MySQL-Database: database tests](turkusowyjesiotr/CSharp-Test-Automation/tree/MySQL-Database)<br>
-[5. Internship-Examination-Task: API + UI tests](turkusowyjesiotr/CSharp-Test-Automation/tree/Internship-Examination-Task)
+[1. Euronews: API + UI tests](/turkusowyjesiotr/CSharp-Test-Automation/tree/Euronews)<br>
+[2. Userinyerface: UI tests](/turkusowyjesiotr/CSharp-Test-Automation/tree/Userinyerface)<br>
+[3. JSON-Placeholder: API tests](/turkusowyjesiotr/CSharp-Test-Automation/tree/JSON-Placeholder)<br>
+[4. MySQL-Database: database tests](/turkusowyjesiotr/CSharp-Test-Automation/tree/MySQL-Database)<br>
+[5. Internship-Examination-Task: API + UI tests](/turkusowyjesiotr/CSharp-Test-Automation/tree/Internship-Examination-Task)
 
 
