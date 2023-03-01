@@ -5,6 +5,7 @@ This project is a simple CRUD application that aims to simulate creating, gettin
 Goal of this tests was to work with this database using C#.
 
 ### Patterns and technologies used:
+* NUnit as test framework
 * MySQL package for C#
 * Model Classes for data
 
